@@ -1,0 +1,5 @@
+bat max-sneak
+bar max-alchemy
+bat max-enchantment
+bat max-speech
+bat max-smithing
